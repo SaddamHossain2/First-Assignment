@@ -55,3 +55,17 @@ body{
     cursor:pointer;
     text-align: center;
 }
+
+/* Hero Area */
+
+.hero {
+
+    height: 500px;
+    background-image: url("./Images/banner.jpg");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    color: white;
+}
